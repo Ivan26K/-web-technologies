@@ -1,2 +1,2 @@
 Hello everyone!
-# I am Chioresco Ivan. I found a lot of new information about Git.
+# I am Kioresco Ivan. I found a lot of new information about Git.
